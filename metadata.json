@@ -1,0 +1,6 @@
+{
+  "name": "هَيَّا نَتَعَلَّمُ! - E-LKPD Bahasa Arab MTs Kelas VII",
+  "description": "الْكِتَابُ الإِضَافِيُّ الإِلِكْتُرُونِيُّ لِتَعْلِيمِ اللُّغَةِ الْعَرَبِيَّةِ لِلصَّفِّ السَّابِعِ بِالْمَدْرَسَةِ الْمُتَوَسِّطَةِ — Media pembelajaran Bahasa Arab interaktif dengan audio pelafalan, latihan 4 maharah, percakapan interaktif, dan sistem koin.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
